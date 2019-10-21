@@ -1,2 +1,5 @@
-# friendfinder
- A compatibility-based "FriendFinder" application -- basically a dating app
+# Friend Finder
+
+### Link to Deployed Website
+https://friendfinder-jm.herokuapp.com/
+
